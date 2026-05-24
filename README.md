@@ -40,6 +40,12 @@ const taimoor = {
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
+![Syed Taimoor Skills](https://raw.githubusercontent.com/syed-taimoor/syed-taimoor/main/assets/syed-taimoor-orbit.gif)
+
+</div>
+
 **Backend & APIs**
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
