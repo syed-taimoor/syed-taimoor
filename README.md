@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/tmrlabs.dev-6E57F7?style=for-the-badge&logo=vercel&logoColor=white)](https://tmrlabs.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedtaimoor)
-[![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/syedtaimoor)
+[![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01671eeef80ecd67c1?viewMode=1)
 [![Email](https://img.shields.io/badge/contact@tmrlabs.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@tmrlabs.dev)
 
 </div>
@@ -42,7 +42,7 @@ const taimoor = {
 
 <div align="center">
 
-![Syed Taimoor Skills](https://raw.githubusercontent.com/syed-taimoor/syed-taimoor/main/assets/syed-taimoor-orbit.gif)
+![Syed Taimoor Skills](https://raw.githubusercontent.com/syed-taimoor/syed-taimoor/main/syed-taimoor-orbit.gif)
 
 </div>
 
@@ -129,7 +129,7 @@ I'm open to **freelance contracts**, **remote full-time roles**, and **consultin
 
 [![Book a Call](https://img.shields.io/badge/Book%20a%20Call-6E57F7?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://cal.com/syedtaimoor)
 [![View Portfolio](https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tmrlabs.dev)
-[![Hire on Upwork](https://img.shields.io/badge/Hire%20on%20Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/syedtaimoor)
+[![Hire on Upwork](https://img.shields.io/badge/Hire%20on%20Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01671eeef80ecd67c1?viewMode=1)
 
 </div>
 
